@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">thremo_jacket</string>
+    <string-array name="select">
+        <item>JACKET 1</item>
+        <item>JACKET 2</item>
+        <item>JACKET 3</item>
+        <item>ADD NEW DEVICE</item>
+    </string-array>
+</resources>
